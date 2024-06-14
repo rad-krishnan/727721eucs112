@@ -1,4 +1,4 @@
-Folder Structure for E_Commerce Question:
+Folder Structure for E_Commerce (Top N Products) Question:
 
 frontend/
 ├── public/
